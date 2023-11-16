@@ -20,6 +20,11 @@ You need to install the next libraries to use
 - pip install scikit-learn
 - pip install imbalanced-learn
 
+# Documentation
+
+You can see the [documentation here](https://docs.google.com/document/d/1lKjwvCLbQw1DCg5bsR7PlkZkw4GSFxloArLPwEktVgg/edit?usp=sharing)  
+You can see the [presentation here](https://www.canva.com/design/DAF0TQmrgW0/ysScKXSKkYX_1McKrpm_Og/edit?utm_content=DAF0TQmrgW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # Prediction models used
 
 - Logistic regression
